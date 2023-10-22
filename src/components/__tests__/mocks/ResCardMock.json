@@ -1,0 +1,119 @@
+{
+  "type": "restaurant",
+  "data": {
+    "type": "F",
+    "id": "425",
+    "name": "Hotel Empire",
+    "uuid": "c0c37758-2e83-4429-aad6-eb94debb48f5",
+    "city": "1",
+    "area": "Koramangala",
+    "totalRatingsString": "1000+ ratings",
+    "cloudinaryImageId": "un4omn7rcunkmlw6vikr",
+    "cuisines": ["North Indian", "Kebabs", "Biryani"],
+    "tags": [],
+    "costForTwo": 45000,
+    "costForTwoString": "₹450 FOR TWO",
+    "deliveryTime": 30,
+    "minDeliveryTime": 30,
+    "maxDeliveryTime": 30,
+    "slaString": "30 MINS",
+    "lastMileTravel": 1.2999999523162842,
+    "slugs": {
+      "restaurant": "hotel-empire-5th-block-koramangala",
+      "city": "bangalore"
+    },
+    "cityState": "1",
+    "address": "103, Industrial Area, 5th Block, Near Jyothi Nivas College, Koramangala 5th Block, Bangalore",
+    "locality": "Koramangala",
+    "parentId": 475,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "aggregatedDiscountInfo": {
+      "header": "10% off",
+      "shortDescriptionList": [
+        {
+          "meta": "10% off | Use TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "10% off up to ₹40 | Use code TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "subHeader": "",
+      "headerType": 0,
+      "superFreedel": ""
+    },
+    "aggregatedDiscountInfoV2": {
+      "header": "10% OFF",
+      "shortDescriptionList": [
+        {
+          "meta": "Use TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "10% off up to ₹40 | Use code TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "subHeader": "",
+      "headerType": 0,
+      "superFreedel": ""
+    },
+    "chain": [],
+    "feeDetails": {
+      "fees": [],
+      "totalFees": 0,
+      "message": "",
+      "title": "",
+      "amount": "",
+      "icon": ""
+    },
+    "availability": {
+      "opened": true,
+      "nextOpenMessage": "",
+      "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 0,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "",
+    "badges": {
+      "imageBased": [],
+      "textBased": [],
+      "textExtendedBadges": []
+    },
+    "lastMileTravelString": "1.2 kms",
+    "hasSurge": false,
+    "sla": {
+      "restaurantId": "425",
+      "deliveryTime": 30,
+      "minDeliveryTime": 30,
+      "maxDeliveryTime": 30,
+      "lastMileTravel": 1.2999999523162842,
+      "lastMileDistance": 0,
+      "serviceability": "SERVICEABLE",
+      "rainMode": "NONE",
+      "longDistance": "NOT_LONG_DISTANCE",
+      "preferentialService": false,
+      "iconType": "EMPTY"
+    },
+    "promoted": false,
+    "avgRating": "4.1",
+    "totalRatings": 1000,
+    "new": false
+  },
+  "subtype": "basic"
+}
